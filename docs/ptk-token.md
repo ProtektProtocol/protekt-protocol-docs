@@ -4,7 +4,7 @@ The PTK token is the governance and rewards token of the Protekt Protocol. It wi
 ## PKT Token Supply
 Upon launch, 100 million (100,000,000) PTK tokens will be minted. The supply will not be frozen initially until the community votes on the mechanism to freeze or alter supply. For instance, minting more tokens might remain to cover large losses in insured protocols, if the Protekt community votes it in.
 
-The majority of the PTK tokens will be disbersed to the community that contribute work and capital to grow the protocol.
+The majority of the PTK tokens will be dispersed to the community that contribute work and capital to grow the protocol.
 
 ### Supply Percentages
 * 60% - Community (Work & Capital)

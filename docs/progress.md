@@ -2,6 +2,18 @@
 
 ## Weekly Protocol Update
 
+### Dec 2nd 2020
+* Published first draft of PKT token design. [Open to feedback here](https://github.com/ProtektProtocol/protekt-protocol-docs/issues/1).
+* Worked on app for distributing PTK rewards ([Balancer Claims fork](https://claim.balancer.finance/#/))
+* Worked on UI for the ClaimsManager
+* Set up Protekt Protocol Github org
+* Call with [Kleros](https://kleros.io/) to discuss an integration for claims management
+* Call with an audit service about their participation in the protocol
+* Community Stats:
+  * Telegram: 82 members
+  * Twitter: 246 followers
+  * Github: 2 contributors
+
 ### Nov 25th 2020
 * Finish and tested smart contract ShieldToken withdrawals, including pausibility
 * Finished tests for ClaimsManagerSingleAccount
