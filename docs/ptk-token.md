@@ -13,4 +13,4 @@ The majority of the PTK tokens will be dispersed to the community that contribut
 * 10% - Investors (if applicable)
 
 ## Earning PTK Tokens
-PTK tokens can be earned by contributing capital (liquidity mining) and work (completing tasks, documentation, development, translations, etc.). For a full overview of contributing, check out the [Contributions & Rewards Page](/contributions-and-rewards.md).
+PTK tokens can be earned by contributing capital (liquidity mining) and work (completing tasks, documentation, development, translations, etc.). For a full overview of contributing, check out the [Contributions & Rewards Page](./contributions-and-rewards.md).
