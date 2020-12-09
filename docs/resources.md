@@ -8,12 +8,12 @@
 
 ## Risk Management Projects
 * [Nexus Mutual](https://nexusmutual.io/)
+* [Cover Protocol](https://www.coverprotocol.com/)
+* [Certik Foundation](https://shield.certik.foundation/)
 * [Idle Finance's Risk-Adjusted strategy](https://idle.finance/#/dashboard/risk)
 * [3F Mutual / Hakka Finance](https://3fmutual.com/)
 * [Atomica](https://atomica.org/)
 * [Cozy.finance](https://cozy.finance/)
-* [CoverETH](https://hack.ethglobal.co/showcase/covereth-recUTQJKsoK9G34JS)
-* [Trustless.Insure](https://hack.ethglobal.co/showcase/trustless-insure-recMrBDwOFlb0rhjO)
 * [ArmorFi](https://twitter.com/armorfi)
 * [UNION](https://www.unn.finance)
 * [NSure](https://nsure.network/#/)
@@ -42,4 +42,4 @@
 * Axion hack
 * [Akropolis 12/11/2020](https://twitter.com/Dogetoshi/status/1326963117356625931)
 * [Origin Protocol 16/11/2020](https://twitter.com/stanikulechov/status/1328514979121795072?s=21)
-* [Pickle Finance](https://www.coindesk.com/defi-protocol-pickle-finance-token-loses-almost-half-its-value-after-19-7m-hack)
+* [Pickle Finance](https://www.coindesk.com/defi-protocol-pickle-finance-token-loses-almost-half-its-value-after-19-7m-hack) [Post-mortem](https://github.com/banteg/evil-jar/blob/master/readme.md)

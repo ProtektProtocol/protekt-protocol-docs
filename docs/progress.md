@@ -2,6 +2,16 @@
 
 ## Weekly Protocol Update
 
+### Dec 9th 2020
+* Calls with an insurance SME and CDS SME on the protocol and pricing
+* Continued work on app for distributing PTK and other rewards
+* Removed technical debt from FE codebase
+* Working on populating holdings dynamically
+* Community Stats:
+  * Telegram: 95 members
+  * Twitter: 355 followers
+  * Github: 2 contributors
+
 ### Dec 2nd 2020
 * Published first draft of PKT token design. [Open to feedback here](https://github.com/ProtektProtocol/protekt-protocol-docs/issues/1).
 * Worked on app for distributing PTK rewards ([Balancer Claims fork](https://claim.balancer.finance/#/))
