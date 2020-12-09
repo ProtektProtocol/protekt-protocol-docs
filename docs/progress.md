@@ -7,6 +7,7 @@
 * Continued work on app for distributing PTK and other rewards
 * Removed technical debt from FE codebase
 * Working on populating holdings dynamically
+* Working on deploying to a testnet
 * Community Stats:
   * Telegram: 95 members
   * Twitter: 355 followers
