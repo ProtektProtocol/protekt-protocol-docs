@@ -2,6 +2,16 @@
 
 ## Weekly Protocol Update
 
+### Dec 16th 2020
+* Deployed first Protekt contract to rinkeby testnet! 🙌
+* Continued to iterate on the initial pricing design
+* Shipped pToken feature to pause deposits during an investigating/paid claim
+* Shipped ability to populate holdings page dynamically
+* Community Stats:
+  * Telegram: 124 members
+  * Twitter: 455 followers
+  * Github: 2 contributors
+
 ### Dec 9th 2020
 * Calls with an insurance SME and CDS SME on the protocol and pricing
 * Continued work on app for distributing PTK and other rewards
