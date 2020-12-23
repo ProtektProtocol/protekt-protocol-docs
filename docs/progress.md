@@ -2,6 +2,15 @@
 
 ## Weekly Protocol Update
 
+### Dec 23rd 2020
+* Working on standing the web app on a testnet
+* Continued to iterate on the initial pricing design
+* Working to onboard a Business Analyst to document notable hacks/exploits
+* Community Stats:
+  * Telegram: 141 members
+  * Twitter: 552 followers
+  * Github: 2 contributors
+
 ### Dec 16th 2020
 * Deployed first Protekt contract to rinkeby testnet! 🙌
 * Continued to iterate on the initial pricing design
