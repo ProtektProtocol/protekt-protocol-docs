@@ -3,12 +3,14 @@
 ## Weekly Protocol Update
 
 ### Dec 30th 2020
-* 
-* Working to onboard a Business Analyst to document notable hacks/exploits
+* Web app deployed to [test environment](https://rinkeby.protektprotocol.com) but not yet ready for testing. _Soon_
+* First test contract will be Compound DAI on Rinkeby 
+* Onboarding a Business Analyst to document notable hacks/exploits. [See task document here](https://docs.google.com/document/d/10T19cFqtePyQxdq0_aOGFOMzlxxHv4TS-PvhV83Ybw8/edit#)
+* Continued to iterate on pricing document
 * Community Stats:
-  * Telegram: 
-  * Twitter: 
-  * Github: 
+  * Telegram: 159 members
+  * Twitter: 637 followers
+  * Github: 2 contributors
 
 ### Dec 23rd 2020
 * Working on standing the web app on a testnet

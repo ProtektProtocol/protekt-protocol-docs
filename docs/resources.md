@@ -10,7 +10,7 @@
 * [Akropolis 12/11/2020](https://twitter.com/Dogetoshi/status/1326963117356625931)
 * [Origin Protocol 16/11/2020](https://twitter.com/stanikulechov/status/1328514979121795072?s=21)
 * [Pickle Finance](https://www.coindesk.com/defi-protocol-pickle-finance-token-loses-almost-half-its-value-after-19-7m-hack) [Post-mortem](https://github.com/banteg/evil-jar/blob/master/readme.md)
-* [Tayvano's list here](https://twitter.com/tayvano_/status/1334158134055559171/photo/1)
+* [Cover Protocol](https://twitter.com/FrankResearcher/status/1343718809732059139)
 
 ## Risk Management Tools
 * [DeFi Score](https://defiscore.io/)
@@ -31,6 +31,8 @@
 * [UNION](https://www.unn.finance)
 * [NSure](https://nsure.network/#/)
 * [Umbrella Protocol](https://medium.com/yam-finance/introducing-the-umbrella-protocol-by-yam-e89109548c6d)
+* [XRisk Protocol](https://twitter.com/xriskprotocol/status/1343316689023348743?s=20)
+* [Opium Network](https://medium.com/opium-network/introducing-opium-insurance-231bacdac44)
 
 ## Protocol Backstops
 * [Aave Safety Module](https://docs.aave.com/aavenomics/safety-module)
