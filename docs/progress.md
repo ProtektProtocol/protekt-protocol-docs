@@ -2,6 +2,14 @@
 
 ## Weekly Protocol Update
 
+### Dec 30th 2020
+* 
+* Working to onboard a Business Analyst to document notable hacks/exploits
+* Community Stats:
+  * Telegram: 
+  * Twitter: 
+  * Github: 
+
 ### Dec 23rd 2020
 * Working on standing the web app on a testnet
 * Continued to iterate on the initial pricing design
