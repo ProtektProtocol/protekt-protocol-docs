@@ -10,7 +10,7 @@ _<Any helpful diagrams if available>_
 ### Cause
 _<Cause>_
 
-### Result
+## Result
 _<Result>_
 
 ### Prevention
