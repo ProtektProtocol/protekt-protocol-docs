@@ -7,13 +7,13 @@ _[Short Summary]_
 
 _[Any helpful diagrams if available]_
 
-### Cause
+## Cause
 _[Cause]_
 
-## Result
+### Result
 _[Result]_
 
-### Prevention
+## Prevention
 _[Prevention]_
 
 ## Helpful Links
