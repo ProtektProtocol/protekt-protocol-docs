@@ -17,6 +17,9 @@
 * [DeFi Pulse Economic Safety Grade](https://twitter.com/defipulse/status/1316098765384753152?s=20)
 * [DeFi Safety](https://defisafety.com/) 
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+* [Gemini's Cryptopedia](https://www.gemini.com/cryptopedia/explore#security)
+* [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/)
+* [BLockchain Threat Intelligence](https://blockthreat.substack.com/)
 
 ## Risk Management Projects
 * [Nexus Mutual](https://nexusmutual.io/)
