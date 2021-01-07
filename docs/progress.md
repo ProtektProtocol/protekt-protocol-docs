@@ -2,7 +2,7 @@
 
 ## Weekly Protocol Update
 
-### Jan 5th 2020
+### Jan 5th 2021
 * Web app updated are shipped directly to [test environment](https://kovan.protektprotocol.com) but not yet ready for testing. 🔜
 * Deployed 2 token rewards apps to kovan
 	kovan COMP and kovan tPTK)
@@ -13,6 +13,8 @@
   * Telegram: 163 members
   * Twitter: 699 followers
   * Github: 2 contributors
+
+## 2020
 
 ### Dec 30th 2020
 * Web app deployed to [test environment](https://rinkeby.protektprotocol.com) but not yet ready for testing. _Soon_
