@@ -1,6 +1,18 @@
-# Progress Tracker
+# Progress Trac
 
 ## Weekly Protocol Update
+
+### Jan 5th 2020
+* Web app updated are shipped directly to [test environment](https://kovan.protektprotocol.com) but not yet ready for testing. 🔜
+* Deployed 2 token rewards apps to kovan
+	kovan COMP and kovan tPTK)
+* Matured [pricing document](https://docs.google.com/document/d/1ZnWLvTGpdRBTyNDcQDx1WT9pEzpjx1DExh8rGDo2lWU/edit#) for 1st cohort of supported protocols (Compound, Aave)
+* Meeting with an insurance SME on pricing document
+* Fixing bugs before user testing on kovan
+* Community Stats:
+  * Telegram: 163 members
+  * Twitter: 699 followers
+  * Github: 2 contributors
 
 ### Dec 30th 2020
 * Web app deployed to [test environment](https://rinkeby.protektprotocol.com) but not yet ready for testing. _Soon_
