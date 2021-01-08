@@ -1,4 +1,4 @@
-# Progress Trac
+# Progress Tracker
 
 ## Weekly Protocol Update
 
