@@ -10,13 +10,13 @@ Build a protocol and community dedicated to keeping #DeFi safe and secure for ev
 | Result | Progress to Date | Status |
 |--------|------------------|--------|
 |Run user testing of the web app on kovan and iterate.|Working on it|⌛In Progress|
-|Launch 1st cohort on mainnet with max-capital.|Not launched|🔜Soon|
+|Launch 1st cohort on mainnet with "max deposit" controls.|Not launched|🔜Soon|
 |Create 'Version 2' backlog and start designing smart contracts.|Not started|🔜Soon|
 
 #### Growth Objective - Find our first users.
 | Result | Progress to Date | Status |
 |--------|------------------|--------|
-|Hit max-capital deposits on 1st cohort.|Not launched|🔜Soon|
+|Hit "max deposit" controls on 1st cohort.|Not launched|🔜Soon|
 |Identify and interview 3 large stakers and 5 large insured folks.|Not started|🔜Soon|
 |Solidify funding plans for 1 year (VC and/or token launch).|Working on a plan|⌛In Progress|
 
