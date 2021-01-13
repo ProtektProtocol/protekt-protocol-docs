@@ -1,16 +1,17 @@
 # Resources
 
 ## Hack Event Registry
-* [Evil Jar Hack - 2020-11-21](./hackEventRegistry/2020-11-21-Evil-Jar-Hack.md)
-* **Coming Soon**
-* * [Maker's Black Thursday](https://twitter.com/monetsupply/status/1308464483791060993?s=12)
-* * Harvest Finance exploit
-* * [bzx exploits](https://twitter.com/bneiluj/status/1228757175595438080)
-* * Parity Multi-sig
-* * Axion hack
-* * [Akropolis 12/11/2020](https://twitter.com/Dogetoshi/status/1326963117356625931)
-* * [Origin Protocol 16/11/2020](https://twitter.com/stanikulechov/status/1328514979121795072?s=21)
-* * [Cover Protocol](https://twitter.com/FrankResearcher/status/1343718809732059139)
+### [Evil Jar Hack - 2020-11-21](./hackEventRegistry/2020-11-21-Evil-Jar-Hack.md)
+
+### Coming Soon
+* [Maker's Black Thursday](https://twitter.com/monetsupply/status/1308464483791060993?s=12)
+* Harvest Finance exploit
+* [bzx exploits](https://twitter.com/bneiluj/status/1228757175595438080)
+* Parity Multi-sig
+* Axion hack
+* [Akropolis 12/11/2020](https://twitter.com/Dogetoshi/status/1326963117356625931)
+* [Origin Protocol 16/11/2020](https://twitter.com/stanikulechov/status/1328514979121795072?s=21)
+* [Cover Protocol](https://twitter.com/FrankResearcher/status/1343718809732059139)
 
 ## Risk Management Tools
 * [DeFi Score](https://defiscore.io/)
