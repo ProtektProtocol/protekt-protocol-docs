@@ -2,8 +2,18 @@
 
 ## Weekly Protocol Update
 
-### Jan 5th 2021
-* Web app updated are shipped directly to [test environment](https://kovan.protektprotocol.com) but not yet ready for testing. 🔜
+### Jan 13th 2021
+* Published [Q1 2021 OKRs for feedback](https://docs.protektprotocol.com/#/priorities).
+* Cleaning up the web app in preparation for Kovan testing
+* Preparing to add Aave support during an upcoming hackathon
+* "Evil Jar Hack" added to the Hack Event Registry
+* Community Stats:
+  * Telegram: 167 members
+  * Twitter: 771 followers
+  * Github: 2 contributors
+
+### Jan 6th 2021
+* Web app updates are shipped directly to [test environment](https://kovan.protektprotocol.com) but not yet ready for testing. 🔜
 * Deployed 2 token rewards apps to kovan
 	kovan COMP and kovan tPTK)
 * Matured [pricing document](https://docs.google.com/document/d/1ZnWLvTGpdRBTyNDcQDx1WT9pEzpjx1DExh8rGDo2lWU/edit#) for 1st cohort of supported protocols (Compound, Aave)
