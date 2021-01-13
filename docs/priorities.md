@@ -9,7 +9,7 @@ Build a protocol and community dedicated to keeping #DeFi safe and secure for ev
 **Tech Objective - Launch the protocol technology.**
 
 | Result | Progress to Date | Status |
-|--------|------------------|--------|
+|--------|--------|--------|
 |Run user testing of the web app on kovan and iterate.|Working on it|⌛In Progress|
 |Launch 1st cohort on mainnet with "max deposit" controls.|Not launched|🔜Soon|
 |Create 'Version 2' backlog and start designing smart contracts.|Not started|🔜Soon|
