@@ -7,6 +7,7 @@ Build a protocol and community dedicated to keeping #DeFi safe and secure for ev
 
 ## Q1 2021 OKRs
 **Tech Objective - Launch the protocol technology.**
+
 | Result | Progress to Date | Status |
 |--------|------------------|--------|
 |Run user testing of the web app on kovan and iterate.|Working on it|⌛In Progress|
