@@ -4,6 +4,9 @@
 ### Evil Jar Hack: 21/11/2020
 [View full write-up](./hackEventRegistry/2020-11-21-Evil-Jar-Hack.md)
 
+### Hack Event Template
+[View template](./hackEventRegistry/template-make-copy.md)
+
 ### Coming Soon
 * [Maker's Black Thursday](https://twitter.com/monetsupply/status/1308464483791060993?s=12)
 * Harvest Finance exploit
