@@ -3,7 +3,7 @@
 Build a protocol and community dedicated to keeping #DeFi safe and secure for everyone. 
 
 ## Roadmap
-![Roadmap](/img/protocol-roadmap.png)
+![Roadmap](./img/protocol-roadmap.png)
 
 ## Q1 2021 OKRs
 #### Tech Objective - Launch the protocol technology.

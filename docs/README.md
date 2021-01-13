@@ -1,4 +1,4 @@
-![Banner](/img/banner.jpg)
+![Banner](./img/banner.jpg)
 
 # Protekt Protocol
 [Protekt Protocol](https://protektprotocol.com/) puts crypto to work insuring users against hacks, bugs, and other exploits of any DeFi protocol. Just as [Uniswap](https://uniswap.org/) allows any token to have a spot market, Protekt allows any smart contract to be insured by stakers. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt.
@@ -33,11 +33,11 @@ The protocol  was inspired and uses money legos from yearn, Aave, Compound, Bala
 ## How it works
 Similar to how [Uniswap](https://uniswap.org/) allows any token to have a spot market, Protekt Protocol allows any smart contract to be backed by a **Protekt contract**, which creates a market for the risk of lost assets held by the smart contract.
 
-When setting up the [Protekt contract](/protektContracts.md), the user specifies an asset (DAI, ETH, USDC, etc.) and an underlying pool, which can be a lending pool, market making pool, staking pool, multi-sig wallet, etc. They also specify the fee model and rules for triggering and evaluating a claim. Once launched, insurees get coverage by minting **pTokens** and shield miners stake assets and earn rewards for assuming the risk of getting liquidated.
+When setting up the [Protekt contract](./protektContracts.md), the user specifies an asset (DAI, ETH, USDC, etc.) and an underlying pool, which can be a lending pool, market making pool, staking pool, multi-sig wallet, etc. They also specify the fee model and rules for triggering and evaluating a claim. Once launched, insurees get coverage by minting **pTokens** and shield miners stake assets and earn rewards for assuming the risk of getting liquidated.
 
 **Protekt Protocol is a generalized and open version of the risk management systems built into Maker and Aave but can back any capital pool by anyone.**
 
-![Protocol Comparison Diagram](/img/ProtocolComparisonDiagram.png)
+![Protocol Comparison Diagram](./img/ProtocolComparisonDiagram.png)
 
 ### pTokens, like cTokens but with cover
 pTokens wrap shares in a DeFi pool (lending pool, AMM LP shares, etc.) and cover the deposits in return for an extracted fee to reward the shield miners. Let's look at an example:
@@ -46,10 +46,10 @@ Users can deposit Dai that gets forwarded into the Compound cDAI pool and get pT
 
 **In short, by holding a pToken, you pay 20% of your yield farming returns to be insured against hacks and smart contract bugs in the underlying capital pool.**
 
-![pToken Image](/img/pTokenDiagram.png)
+![pToken Image](./img/pTokenDiagram.png)
 
 ### Protekt Contracts
-[Protekt contracts](/aboutProtektContracts.md) are configurable insurance markets that can be set up on top of any smart contract. Upon launching the contract, the creator specifies:
+[Protekt contracts](./aboutProtektContracts.md) are configurable insurance markets that can be set up on top of any smart contract. Upon launching the contract, the creator specifies:
 * Underlying asset and capital pool
 * Fee model
 * Shield mining asset and investment strategy
@@ -57,22 +57,22 @@ Users can deposit Dai that gets forwarded into the Compound cDAI pool and get pT
 
 Fee models, investment strategy, and the claims process are each configurable but must conform to the same interface. Users can search for the best contract to meet their goals, and stakers can stake capital on the capital pools they are confident in. If a payout event occurs, any insuree can `submitClaim()` and kick off the claims process, which can be managed by programmatic rules, a DAO, or a centralized party.
 
-![Protekt Pool Image](/img/ProtektPool.png)
+![Protekt Pool Image](./img/ProtektPool.png)
 
 ### The PTK Mothership Pool
 The PTK Mothership is the backstop that covers all Protekt pools up to certain thresholds, governs which underlying pools are added and when, and will eventually earn cashflow. New Protekt pools can only be added through the Mothership. She creates life and gives security.
 
-![Full Protocol Image](/img/ProtektProtocolDiagram.png)
+![Full Protocol Image](./img/ProtektProtocolDiagram.png)
 
 ## The PTK Token
-The [PTK token](/ptk-token.md) is the governance and rewards token of the Protekt Protocol. It will be used to stake for assuming protocol liability, make governance decisions, receive rewards from protocol fees, provided as protocol incentives, and used to fund grants and audit reports for DeFi protocols that are covered by Protekt.
+The [PTK token](./ptk-token.md) is the governance and rewards token of the Protekt Protocol. It will be used to stake for assuming protocol liability, make governance decisions, receive rewards from protocol fees, provided as protocol incentives, and used to fund grants and audit reports for DeFi protocols that are covered by Protekt.
 
 ### Protocol Incentives (Yield Farming)
 PTK tokens can be earned by contributing capital (liquidity mining) and work, like completing tasks, writing documentation, writing code, translations, etc. 
 
-Every Wednesday, new rounds of PTK will be claimable by those completing tasks to support the protocol. Read more about protocol [contributions and rewards here](/contributions-and-rewards.md).
+Every Wednesday, new rounds of PTK will be claimable by those completing tasks to support the protocol. Read more about protocol [contributions and rewards here](./contributions-and-rewards.md).
 
-And visit the [Weekly Tasks Page](/weekly-tasks.md) to see current opportunities and start contrbuting.
+And visit the [Weekly Tasks Page](./weekly-tasks.md) to see current opportunities and start contrbuting.
 
 ### Governance
 Governance will start and end with the Protekt community. The community will not only be PTK holders but also the hackers, devs, auditors, analysts, and actuaries that contribute their blood, sweat, and tears to DeFi. They will be the ones to propose coverage of new DeFi pools, adjust and critique settings, and keep DeFi safe at night. The protocol will maintain some level of centralization at the beginning so it can iterate quickly but will pursue a pathway of [progressive decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/) over time.
