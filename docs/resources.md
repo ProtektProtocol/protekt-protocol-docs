@@ -1,7 +1,7 @@
 # Resources
 
 ## Hack Event Registry
-### [Evil Jar Hack: 2020-11-21](./hackEventRegistry/2020-11-21-Evil-Jar-Hack.md)
+### [Evil Jar Hack: 21/11/2020](./hackEventRegistry/2020-11-21-Evil-Jar-Hack.md)
 
 ### Coming Soon
 * [Maker's Black Thursday](https://twitter.com/monetsupply/status/1308464483791060993?s=12)
