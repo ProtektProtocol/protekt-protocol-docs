@@ -38,17 +38,3 @@
 * [Umbrella Protocol](https://medium.com/yam-finance/introducing-the-umbrella-protocol-by-yam-e89109548c6d)
 * [XRisk Protocol](https://twitter.com/xriskprotocol/status/1343316689023348743?s=20)
 * [Opium Network](https://medium.com/opium-network/introducing-opium-insurance-231bacdac44)
-
-## Protocol Backstops
-* [Aave Safety Module](https://docs.aave.com/aavenomics/safety-module)
-* [Maker System Stabilizer Module](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module)
-* [Perpetual Protocol](https://docs.perp.fi/getting-started/how-it-works)
-
-## Tools
-* [Echidna for smart contract fuzzing](https://medium.com/coinmonks/smart-contract-fuzzing-d9b88e0b0a05)
-* [MythX](https://mythx.io/)
-
-## Writings
-* [Paradigm's Crypto Native Insurance article](https://www.fehrsam.xyz/blog/crypto-native-insurance-defi)
-* [Trail of Bits' Accidentally Stepping on a DeFi Lego](https://blog.trailofbits.com/2020/08/05/accidentally-stepping-on-a-defi-lego/)
-* [Hugh Karp's Comparing Insurance Like Solutions in DeFi](https://medium.com/@hugh_karp/comparing-insurance-like-solutions-in-defi-a804a6be6d48)
