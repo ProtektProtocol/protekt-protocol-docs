@@ -10,7 +10,7 @@
 * Community Stats:
   * Telegram: 167 members
   * Twitter: 771 followers
-  * Github: 2 contributors
+  * Github: 3 contributors
 
 ### Jan 6th 2021
 * Web app updates are shipped directly to [test environment](https://kovan.protektprotocol.com) but not yet ready for testing. 🔜
