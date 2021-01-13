@@ -1,4 +1,4 @@
-# [Evil Jar Hack]
+# Evil Jar Hack
 * **Project/Protocol:** Pickle Finance
 * **Date & Time:** 
 * * Exploit: Nov-21-2020 06:37:24 PM +UTC 
