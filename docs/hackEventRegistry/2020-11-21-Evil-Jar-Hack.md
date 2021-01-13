@@ -1,8 +1,8 @@
 # Evil Jar Hack
 * **Project/Protocol:** Pickle Finance
 * **Date & Time:** 
-* * Exploit: Nov-21-2020 06:37:24 PM +UTC 
-* * Fix (Estimated): Nov-22-2020 03:00:00 PM +UTC
+* * Exploit: Nov-21-2020 06-37-24 PM +UTC 
+* * Fix (Estimated): Nov-22-2020 03-00-00 PM +UTC
 * **Classification: Smart Contract Exploit**
 
 ## Summary
