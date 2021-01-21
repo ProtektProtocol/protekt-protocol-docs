@@ -1,6 +1,8 @@
 # Resources
 
 ## Hack Event Registry
+The Hack Event Registry is an accessible resource for learning about past DeFi vulnerabilities/exploits and helping prevent them in the future. The goal is to support the DeFi ecosystem by documenting and learning from all past hacks/technical bugs/exploits. With better historical information and learning, risk will be priced more fairly and accurately.
+
 ### Evil Jar Hack: 21/11/2020
 [View full write-up](./hackEventRegistry/2020-11-21-Evil-Jar-Hack.md)
 

@@ -2,6 +2,14 @@
 
 ## Weekly Protocol Update
 
+### Jan 20th 2021
+* Ended up restyling the frontend before Kovan testing. In progress.
+* Working on token and fee distribution scripts
+* Community Stats:
+  * Telegram: 195 members
+  * Twitter: 787 followers
+  * Github: 3 contributors
+
 ### Jan 13th 2021
 * Published [Q1 2021 OKRs for feedback](https://docs.protektprotocol.com/#/priorities).
 * Cleaning up the web app in preparation for Kovan testing
