@@ -2,6 +2,15 @@
 
 ## Weekly Protocol Update
 
+### Jan 27th 2021
+* Frontend re-write is mostly complete. Now just squashing bugs. Check it out [protekt.finance](https://protekt.finance/earn-yield).
+* Continued to work on token and fee distribution scripts.
+* Continued to work on Aave support for EthGlobal Hackathon.
+* Community Stats:
+  * Telegram: 213 members
+  * Twitter: 796 followers
+  * Github: 3 contributors
+
 ### Jan 20th 2021
 * Ended up restyling the frontend before Kovan testing. In progress.
 * Working on token and fee distribution scripts
