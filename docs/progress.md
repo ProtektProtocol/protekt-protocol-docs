@@ -2,6 +2,17 @@
 
 ## Weekly Protocol Update
 
+### Feb 3rd 2021
+* Building [DeFi Train](https://www.defitrain.com) for EthGlobal Hackthon.
+  * Adds Aave support to Protekt. 👻
+  * Adds onchain fee distribution to Protekt. 🙌
+  * Battle tests our FE and smart contracts in a controlled environment.
+* Look for the mainnet 
+* Community Stats:
+  * Telegram: 222 members
+  * Twitter: 811 followers
+  * Github: 3 contributors
+
 ### Jan 27th 2021
 * Frontend re-write is mostly complete. Now just squashing bugs. Check it out [protekt.finance](https://protekt.finance/earn-yield).
 * Continued to work on token and fee distribution scripts.
