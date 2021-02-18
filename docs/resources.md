@@ -12,7 +12,8 @@ The Hack Event Registry is an accessible resource for learning about past DeFi v
 ### Coming Soon
 * [Maker's Black Thursday](https://twitter.com/monetsupply/status/1308464483791060993?s=12)
 * Harvest Finance exploit
-* [bzx exploits](https://twitter.com/bneiluj/status/1228757175595438080)
+* [bzx exploits
+](https://twitter.com/bneiluj/status/1228757175595438080)
 * Parity Multi-sig
 * Axion hack
 * [Akropolis 12/11/2020](https://twitter.com/Dogetoshi/status/1326963117356625931)
@@ -43,3 +44,5 @@ The Hack Event Registry is an accessible resource for learning about past DeFi v
 * [Umbrella Protocol](https://medium.com/yam-finance/introducing-the-umbrella-protocol-by-yam-e89109548c6d)
 * [XRisk Protocol](https://twitter.com/xriskprotocol/status/1343316689023348743?s=20)
 * [Opium Network](https://medium.com/opium-network/introducing-opium-insurance-231bacdac44)
+* [Bridge Mutual](https://www.bridgemutual.io)
+* [Unslashed Finance](https://unslashed.finance)

@@ -5,7 +5,7 @@
 ### Feb 10th 2021
 * Built and presented [DeFi Train](https://hack.ethglobal.co/showcase/defi-train-by-protekt-protocol-recBgomteqeXlR39I) for EthGlobal Hackthon.
   * Held off on mainnet due to gas prices ⛽
-* Integrating DeFi Train into Protekt now
+* Integrating DeFi Train into Protekt now (Aave contracts and fee capture)
 * Shooting for kovan testing and mainnet with deposit caps in the next few weeks
 * Community Stats:
   * Telegram: 238 members
