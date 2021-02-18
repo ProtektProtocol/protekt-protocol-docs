@@ -2,6 +2,14 @@
 
 ## Weekly Protocol Update
 
+### Feb 17th 2021
+* Finalizing updated Aave and Compound smart contracts
+* Fixing UI bugs in the web app and targeting release next week
+* Community Stats:
+  * Telegram: 248 members
+  * Twitter: 834 followers
+  * Github: 3 contributors
+
 ### Feb 10th 2021
 * Built and presented [DeFi Train](https://hack.ethglobal.co/showcase/defi-train-by-protekt-protocol-recBgomteqeXlR39I) for EthGlobal Hackthon.
   * Held off on mainnet due to gas prices ⛽
