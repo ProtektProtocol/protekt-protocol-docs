@@ -2,6 +2,16 @@
 
 ## Weekly Protocol Update
 
+### Feb 24th 2021
+* Compound Live on Kovan for testing - http://kovan.protekt.finance 🚀
+* Aave bugs found and need to be fixed 👻
+* Met with and L2 chain team about  [DeFi Train](https://hack.ethglobal.co/showcase/defi-train-by-protekt-protocol-recBgomteqeXlR39I)
+* Met more investors (not raising capital currently)
+* Community Stats:
+  * Telegram: 250 members
+  * Twitter: 842 followers
+  * Github: 3 contributors
+
 ### Feb 17th 2021
 * Finalizing updated Aave and Compound smart contracts
 * Fixing UI bugs in the web app and targeting release next week
