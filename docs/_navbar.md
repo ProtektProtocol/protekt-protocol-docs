@@ -3,3 +3,4 @@
 * [Progress](/progress.md)
 * [Priorities](/priorities.md)
 * [Resources](/resources.md)
+* [Testing](/testing-guide.md)
