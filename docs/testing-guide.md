@@ -16,7 +16,7 @@ To access decentralised applications, you will need a decentralised wallet. Our 
 
 For a quick guide on how to setup a MetaMask wallet take a look [here](https://www.youtube.com/watch?v=yWfZnjkhhhg&t=459s)
 
-After setting up a wallet, you will need to change the address to the Kovan test network.
+After setting up a wallet, you will need to change the network to the Kovan test network.
 
 ![Kovan Meta Mask](../img/kovan-meta-mask.png)
 
