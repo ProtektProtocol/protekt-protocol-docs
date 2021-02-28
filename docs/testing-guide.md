@@ -57,13 +57,30 @@ First navigate to [Compound](https://app.compound.finance/) and ensure you are o
 
 Next click on Ether on the left side of the page under supply.
 
+![Compound Supply](../img/compound-supply.png)
 
+Deposit some amount of Ether which we will use as collateral to borrow Dai.
 
+Next we will borrow some Dai using the ether as collateral.
 
-Next Dai
+![Compound Borrow](../img/compound-borrow.png)
+
+Congratulations! You have all the tokens you need to test protekt.
 
 ## Testing the Contracts
 
-* try out the protekt contracts
+Now you should have all the tokens you need to test Protekt!
 
-* link to feedback form
+Protekt allows users who want to access protocols like compound and earn yield, insurance on their tokens in the pools if any bugs or hacks were to happen. 
+
+When you deposit Dai in the staking side of protekt, it will be automatically deposited into compound. 
+
+Compound then mints you cDai (compound Dai). Instead of giving you back cDai, we then give you pcDai. (protekted compound Dai). A small fee is taken from the interest earned to pay the insurers of the pooled token. 
+
+Navigate to the Earn Safe Yield tab of [protekt](http://kovan.protekt.finance/earn-yield) to try this!
+
+For users who want to earn yield by shielding pools, we offer a method to stake to shield mine.
+
+Navigate to the Stake to Shield Mine tab of [protekt](http://kovan.protekt.finance/staking) to try this!
+
+
