@@ -6,7 +6,9 @@ We're building Protekt for you, so today we're inviting you to test it. 🙌
 
 We've put together a short guide covering everything needed, if there are any questions feel free to get in touch on our [telegram](https://t.me/protektdefi) 🚀
 
-We invite you to read our docs to learn more about how the protocol works.
+We invite you to read our [View Docs](./protektContracts.md) to learn more about how the protocol works.
+
+We would love you feedback and have attached a [feedback form](https://forms.gle/Z8mEvG8RhytJJN3E7) to be filled out after testing ❤️.
 
 ## Setting up a decentralised wallet
 
