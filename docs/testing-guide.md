@@ -51,6 +51,13 @@ Ensure you set a non 0 value to transfer, and click confirm.
 After the transaction has been confirmed, if you added the weth address to your tokens it should now display a value.
 
 
+Next you will need to acquire some kovan Dai . To do this, we can take a loan out on compound, by depositing some ETH and using it as collateral for the Dai.
+
+First navigate to [Compound](https://app.compound.finance/) and ensure you are on the Kovan network in MetaMask.
+
+Next click on Ether on the left side of the page under supply.
+
+
 
 
 Next Dai
