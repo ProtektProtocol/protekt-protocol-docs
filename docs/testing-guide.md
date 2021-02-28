@@ -2,9 +2,9 @@
 
 At Protekt we want to invite *every* user, from completely new to DeFi to an experienced developer to test our platform. 
 
-We're building Protekt for you, so today we're inviting you to test it.
+We're building Protekt for you, so today we're inviting you to test it. 🙌
 
-We've put together a short guide covering everything needed, if there are any questions feel free to get in touch on our [telegram](https://t.me/protektdefi)
+We've put together a short guide covering everything needed, if there are any questions feel free to get in touch on our [telegram](https://t.me/protektdefi) 🚀
 
 We invite you to read our docs to learn more about how the protocol works.
 
@@ -68,7 +68,7 @@ Congratulations! You have all the tokens you need to test protekt.
 
 ## Testing the Contracts
 
-Now you should have all the tokens you need to test Protekt!
+Now you should have all the tokens you need to test Protekt! 🚀
 
 Protekt allows users who want to access protocols like compound and earn yield, insurance on their tokens in the pools if any bugs or hacks were to happen. 
 
@@ -81,5 +81,7 @@ Navigate to the Earn Safe Yield tab of [protekt](http://kovan.protekt.finance/ea
 For users who want to earn yield by shielding pools, we offer a method to stake to shield mine.
 
 Navigate to the Stake to Shield Mine tab of [protekt](http://kovan.protekt.finance/staking) to try this!
+
+We would love you feedback and have attached a [feedback form](https://forms.gle/Z8mEvG8RhytJJN3E7) for you ❤️.
 
 
