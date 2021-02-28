@@ -20,8 +20,7 @@ After setting up a wallet, you will need to change the address to the Kovan test
 
 
 ## Adding token addresses to your wallet
-T
-o add tokens to your address, scroll down to the bottom of your MetaMask wallet and click add Token.
+To add tokens to your address, scroll down to the bottom of your MetaMask wallet and click add Token.
 
 From here, if you are on Kovan, enter the address and the rest of the values will be autofilled.
 
