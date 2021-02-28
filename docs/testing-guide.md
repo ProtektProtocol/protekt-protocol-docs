@@ -80,7 +80,7 @@ Compound then mints you cDai (compound Dai). Instead of giving you back cDai, we
 
 Navigate to the Earn Safe Yield tab of [protekt](http://kovan.protekt.finance/earn-yield) to try this!
 
-For users who want to earn yield by shielding pools, we offer a method to stake to shield mine.
+For users who want to earn yield by shielding pools, we offer a method to stake to shield mine. This is done by depositing weth and in return you recieve a shpcDAI (shield protekt cDai) token that earns returns.
 
 Navigate to the Stake to Shield Mine tab of [protekt](http://kovan.protekt.finance/staking) to try this!
 
