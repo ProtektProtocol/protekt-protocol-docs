@@ -3,6 +3,16 @@
 ## Weekly Protocol Update
 
 ### Feb 24th 2021
+* Compound Live on Kovan ready for testing - http://kovan.protekt.finance 🚀
+* Instructions for testing for new users available [here](./testing-guide.md)
+* Feedback form uploaded for users who test the protocol available [feedback form](https://forms.gle/Z8mEvG8RhytJJN3E7)
+* Continued with Aave development and targeting testing next update
+* Community Stats:
+  * Telegram: 250 members
+  * Twitter: 847 followers
+  * Github: 3 contributors
+
+### Feb 24th 2021
 * Compound Live on Kovan (nearly ready) for testing - http://kovan.protekt.finance 🚀
 * Instructions for testing for new users will be uploaded shortly...
 * Aave bugs found and need further testing 👻
