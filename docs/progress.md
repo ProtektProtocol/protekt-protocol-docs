@@ -2,7 +2,7 @@
 
 ## Weekly Protocol Update
 
-### Feb 24th 2021
+### March 3rd 2021
 * Compound Live on Kovan ready for testing - http://kovan.protekt.finance 🚀
 * Instructions for testing for new users available [here](./testing-guide.md)
 * Feedback form uploaded for users who test the protocol available [feedback form](https://forms.gle/Z8mEvG8RhytJJN3E7)
