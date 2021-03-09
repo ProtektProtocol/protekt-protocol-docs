@@ -4,7 +4,9 @@
 
 ### March 3rd 2021
 * Aave Live on Kovan 👻 ready for testing - http://kovan.protekt.finance 
-* Instructions for testing for new users available [here](./testing-guide.md)
+* Aave testing guide added to instructions, available  [here](./testing-guide.md)
+* Thank you for all the feedback so far! Our [feedback form](https://forms.gle/Z8mEvG8RhytJJN3E7) is still available also.
+* Looking for mainnet soon!
 * Community Stats:
   * Telegram: 245 members
   * Twitter: 854 followers
