@@ -28,14 +28,19 @@ From here, if you are on Kovan, enter the address and the rest of the values wil
 
 ![Add Token](../img/add-token.png)
 
+
 - weth address: 0xd0A1E359811322d97991E03f863a0C30C2cF029C
 - dai address: 0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa
 - cDai address: 0xf0d0eb522cfa50b716b3b1604c4f0fa6f04376ad
 - pcDai: 0x0584815FA77F397e79E31E7663FE0543d03a5EDD
 - shpcDai: 0x7aD9d1Cd1a392f53Bb8F91A085e20A3c37BEc0e7
+- usdc: 0xe22da380ee6b445bb8273c81944adeb6e8450422
+- ausdc: 0xe12afec5aa12cf614678f9bfeeb98ca9bb95b5b0
+- paUSDC: 0x64755355bA471aa78edca59b6114313A5C0A8C30
+- shpaUSD: 0x6787ABBDE8370016f9087095dc5e45BcCC5E4794
 
 
-## Getting the test tokens
+## Getting the test tokens - Compound
 First you need to get some kovan ether (ETH). Ether is used for gas for the transactions and we'll use it to get Dai and Weth.
 
 To get Kovan ether use one of the following faucets:
@@ -66,7 +71,25 @@ Next we will borrow some Dai using the ether as collateral.
 
 ![Compound Borrow](../img/compound-borrow.png)
 
-Congratulations! You have all the tokens you need to test protekt.
+Congratulations! You have all the tokens you need to test protekt on compound.
+
+## Getting the test tokens - Aave
+Aave have a faucet to supply test tokens
+
+This is available [here](https://testnet.aave.com/faucet)
+
+You'll need to click USDC, then faucet and ensure you are on the kovan network!
+
+If this works you're ready to go!
+
+If not try borrowing some USDC on the testnet dashboard for another token:
+
+Navigate to [Aave](https://testnet.aave.com/)
+
+You should se the AAVE dashboard:
+![Aave dashboard](../img/aave-dashboard.png)
+
+Repeat what we did for compound, by depositing one token and borrowing USDC.
 
 ## Testing the Contracts
 
@@ -78,9 +101,11 @@ When you deposit Dai in the staking side of protekt, it will be automatically de
 
 Compound then mints you cDai (compound Dai). Instead of giving you back cDai, we then give you pcDai. (protekted compound Dai). A small fee is taken from the interest earned to pay the insurers of the pooled token. 
 
+For aave, you get paUSDC instead of aUSDC
+
 Navigate to the Earn Safe Yield tab of [protekt](http://kovan.protekt.finance/earn-yield) to try this!
 
-For users who want to earn yield by shielding pools, we offer a method to stake to shield mine. This is done by depositing weth and in return you recieve a shpcDAI (shield protekt cDai) token that earns returns.
+For users who want to earn yield by shielding pools, we offer a method to stake to shield mine. This is done by depositing weth and in return you recieve a shpcDAI (shield protekt cDai) token that earns returns. For Aave you recieve shpaUSDC
 
 Navigate to the Stake to Shield Mine tab of [protekt](http://kovan.protekt.finance/staking) to try this!
 
