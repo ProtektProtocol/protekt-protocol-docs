@@ -2,6 +2,15 @@
 
 ## Weekly Protocol Update
 
+### March 17th ☘️ 2021
+* Redesigning marketing website - https://protektprotocol.com
+* Fixing bugs found from user testing 
+* Taking user feedback on board for planning for v2 - thank yous!
+* Community Stats:
+  * Telegram: 248 members
+  * Twitter: 856 followers
+  * Github: 3 contributors
+
 ### March 10rd 2021
 * Aave Live on Kovan 👻 ready for testing - http://kovan.protekt.finance 
 * Aave testing guide added to instructions, available  [here](./testing-guide.md)
