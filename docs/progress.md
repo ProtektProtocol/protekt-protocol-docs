@@ -2,6 +2,13 @@
 
 ## Weekly Protocol Update
 
+### March 24th 
+* Fixed User testing bugs
+* Continued with testing on test networks
+* Development of Upgradeable PTK token started
+* Planning for Q2 and Alpha launch
+
+
 ### March 17th ☘️ 2021
 * Redesigning marketing website - https://protektprotocol.com
 * Fixing bugs found from user testing 
