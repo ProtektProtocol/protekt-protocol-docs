@@ -46,3 +46,5 @@ The Hack Event Registry is an accessible resource for learning about past DeFi v
 * [Opium Network](https://medium.com/opium-network/introducing-opium-insurance-231bacdac44)
 * [Bridge Mutual](https://www.bridgemutual.io)
 * [Unslashed Finance](https://unslashed.finance)
+* [Nayms](https://nayms.io/)
+* [ImmuneFi](https://immunefi.com/)

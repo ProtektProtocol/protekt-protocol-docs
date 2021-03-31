@@ -2,11 +2,25 @@
 
 ## Weekly Protocol Update
 
+### March 31st 
+* Fixed more bugs on Kovan
+* Created Protekt DAO multisig at [0x739a9CA29eA0D4EC88765328C9cFebff0b668007](https://etherscan.io/address/0x739a9CA29eA0D4EC88765328C9cFebff0b668007)
+* Continued with testing on test networks
+* Working on AAVE APR bug
+* Community Stats:
+  * Telegram: 251 members
+  * Twitter: 784 followers
+  * Github: 3 contributors
+
 ### March 24th 
 * Fixed User testing bugs
 * Continued with testing on test networks
 * Development of Upgradeable PTK token started
 * Planning for Q2 and Alpha launch
+* Community Stats:
+  * Telegram: 248 members
+  * Twitter: 856 followers
+  * Github: 3 contributors
 
 
 ### March 17th ☘️ 2021
