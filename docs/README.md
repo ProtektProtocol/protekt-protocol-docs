@@ -1,68 +1,42 @@
 ![Banner](/img/banner.jpg)
 
 # Protekt Protocol
-[Protekt Protocol](https://protektprotocol.com/) puts crypto to work insuring users against hacks, bugs, and other exploits of any DeFi protocol. Just as [Uniswap](https://uniswap.org/) allows any token to have a spot market, Protekt allows any smart contract to be insured by stakers. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt.
-
-Along with being a smart contract protocol, an allocation of protocol treasury will be used for grants to continually audit and secure other DeFi money legos, so the ecosystem can all grow safely together!
-
-**Explainers**
-* [Short Video Explainer from EthOnline](https://www.youtube.com/watch?v=7Az70o8kZy8&feature=youtu.be)
-* [EthOnline Hackathon Submission](https://hack.ethglobal.co/showcase/protekt-protocol-recH3ArMNQFeMFCJf)
+[Protekt Protocol](https://protektprotocol.com/) makes DeFi secure and safe for mainstream users and institutionals. The protocol researches, rates, and wraps the best projects in DeFi, so users can confidently deposit into this new financial infrastructure. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt.
 
 **Repos**
-* [Smart Contracts](https://github.com/corbinpage/protekt-protocol-contracts)
-* [Frontend](https://github.com/corbinpage/protekt-fe)
+* [Smart Contracts](https://github.com/ProtektProtocol/protekt-protocol-contracts)
+* [Frontend](https://github.com/ProtektProtocol/protekt-frontend)
+* [Docs](https://github.com/ProtektProtocol/protekt-protocol-docs)
 
 ## DeFi Risk
-Building on the work of awesome projects like [DeFi Score](https://defiscore.io/), [Nexus Mutual](https://nexusmutual.io/), [Aave's Safety Modules](https:/.aave.com/aavenomics/safety-module), and others, we believe that large technical vulnerabilities are the **biggest risk to a thriving DeFi community** over the next few years. Smart contracts that contain large amounts of value face the following risks:
+Building on the work of awesome projects like [DeFi Score](https://defiscore.io/), [Nexus Mutual](https://nexusmutual.io/), [Aave's Safety Modules](https://docs.aave.com/aavenomics/safety-module), and others, we believe that large technical vulnerabilities are the **biggest risk to a thriving DeFi community** over the next few years. Smart contracts that contain large amounts of value face the following risks:
 1. Smart Contract Risk - Technical bugs that can expose funds to hackers
 2. Centralization Risk - Centralized admin keys are stolen or used nefariously or oracles are manipulated to allow an exploit
 3. Financial Risk - Collateral falls below outstanding obligations, likely due to price movement, or low liquidity leads to locked funds
 
-Especially as new money legos are created, snapped together, and remixed weekly, the risks multiply and become a bottleneck to more capital flowing into the space. New entrants need signaling and assurance of the projects they can trust and commit capital as well as recapitalization if a [Shortfall Event](https:/.aave.com/aavenomics/terminology#shortfall-event-se) occurs.
+Especially as new money legos are created, snapped together, and remixed weekly, the risks multiply and become a bottleneck to more capital flowing into the space. New entrants need signaling and assurance of the projects they can trust and commit capital as well as recapitalization if a [Shortfall Event](https://docs.aave.com/aavenomics/terminology#shortfall-event-se) occurs.
 
-To fulfill this need, Protekt Protocol introduces a new insurance marketplace with several innovative features:
-* 📜 ANYONE can back ANY capital pool with a composable insurance contract
+To fulfill this need, Protekt introduces a new insurance protocol with several innovative features:
 * 💸 Insurees can mint wrapped tokens with built in coverage (never "buy cover")
 * 🛡 Stakers (shield miners) deposit capital to assume liability and earn rewards
+* 🤝 Distributors earn rewards for onboarding new users
 * 🔀 Configurable claims process via automated rules or a DAO
 * 🏦 Payouts trigger a liquidation waterfall to spread risk through tranches
 
 The protocol  was inspired and uses money legos from yearn, Aave, Compound, Balancer, Maker, rDAi, Nexus, and others. The very best in DeFi.
 
 ## How it works
-Similar to how [Uniswap](https://uniswap.org/) allows any token to have a spot market, Protekt Protocol allows any smart contract to be backed by a **Protekt contract**, which creates a market for the risk of lost assets held by the smart contract.
+Protekt Protocol allows any smart contract to be backed by a **Protekt Contract**, which creates a market for the risk of lost assets held by the smart contract. Each Protekt contract is a wrapper on a yield bearing token, like Compound cTokens and Aave aTokens, and provide built in coverage against different risks of lost capital. Each Protekt contract is a token itself, called a **pToken**.
 
-When setting up the [Protekt contract](/protektContracts.md), the user specifies an asset (DAI, ETH, USDC, etc.) and an underlying pool, which can be a lending pool, market making pool, staking pool, multi-sig wallet, etc. They also specify the fee model and rules for triggering and evaluating a claim. Once launched, insurees get coverage by minting **pTokens** and shield miners stake assets and earn rewards for assuming the risk of getting liquidated.
+On the other side of the market, shield miners stake tokens to assume the liability of one or more pTokens, depending on their risk tolerance. They earn rewards for their service but can be liquidated if an exploit occurs and a successful claim is approvedd.
 
-**Protekt Protocol is a generalized and open version of the risk management systems built into Maker and Aave but can back any capital pool by anyone.**
+![Protocol Comparison Diagram](/img/pcDAI-paUSDC.png)
 
-![Protocol Comparison Diagram](/img/ProtocolComparisonDiagram.png)
-
-### pTokens, like cTokens but with cover
-pTokens wrap shares in a DeFi pool (lending pool, AMM LP shares, etc.) and cover the deposits in return for an extracted fee to reward the shield miners. Let's look at an example:
-
-Users can deposit Dai that gets forwarded into the Compound cDAI pool and get pTokens (pcDAI) in return. pcDAI represents your underlying cDAI 1:1 plus 80% of the COMP farming rewards, while the other 20% goes to the shield miners as rewards. This fee is the user's ongoing "premium" for purchasing cover. pTokens can be minted at any time and redeemed for your cTokens + adjusted COMP rewards at any time.
+For example, users can deposit Dai that gets forwarded into the Compound cDAI pool and get pTokens (pcDAI) in return. pcDAI represents your underlying cDAI 1:1 plus 80% of the COMP farming rewards, while the other 20% goes to the shield miners as rewards. This fee is the user's ongoing "premium" for purchasing cover. pTokens can be minted at any time and redeemed for your cTokens + adjusted COMP rewards at any time.
 
 **In short, by holding a pToken, you pay 20% of your yield farming returns to be insured against hacks and smart contract bugs in the underlying capital pool.**
 
 ![pToken Image](/img/pTokenDiagram.png)
-
-### Protekt Contracts
-[Protekt contracts](/aboutProtektContracts.md) are configurable insurance markets that can be set up on top of any smart contract. Upon launching the contract, the creator specifies:
-* Underlying asset and capital pool
-* Fee model
-* Shield mining asset and investment strategy
-* Claims Manager (a programmatic smart contract or a DAO)
-
-Fee models, investment strategy, and the claims process are each configurable but must conform to the same interface. Users can search for the best contract to meet their goals, and stakers can stake capital on the capital pools they are confident in. If a payout event occurs, any insuree can `submitClaim()` and kick off the claims process, which can be managed by programmatic rules, a DAO, or a centralized party.
-
-![Protekt Pool Image](/img/ProtektPool.png)
-
-### The PTK Mothership Pool
-The PTK Mothership is the backstop that covers all Protekt pools up to certain thresholds, governs which underlying pools are added and when, and will eventually earn cashflow. New Protekt pools can only be added through the Mothership. She creates life and gives security.
-
-![Full Protocol Image](/img/ProtektProtocolDiagram.png)
 
 ## The PTK Token
 The [PTK token](/ptk-token.md) is the governance and rewards token of the Protekt Protocol. It will be used to stake for assuming protocol liability, make governance decisions, receive rewards from protocol fees, provided as protocol incentives, and used to fund grants and audit reports for DeFi protocols that are covered by Protekt.
@@ -70,18 +44,14 @@ The [PTK token](/ptk-token.md) is the governance and rewards token of the Protek
 ### Protocol Incentives (Yield Farming)
 PTK tokens can be earned by contributing capital (liquidity mining) and work, like completing tasks, writing documentation, writing code, translations, etc. 
 
-Every Wednesday, new rounds of PTK will be claimable by those completing tasks to support the protocol. Read more about protocol [contributions and rewards here](/contributions-and-rewards.md).
-
-And visit the [Weekly Tasks Page](/weekly-tasks.md) to see current opportunities and start contrbuting.
+New rounds of PTK will be claimable by those completing tasks to support the protocol. Read more about protocol [contributions and rewards here](/contributions-and-rewards.md).
 
 ### Governance
 Governance will start and end with the Protekt community. The community will not only be PTK holders but also the hackers, devs, auditors, analysts, and actuaries that contribute their blood, sweat, and tears to DeFi. They will be the ones to propose coverage of new DeFi pools, adjust and critique settings, and keep DeFi safe at night. The protocol will maintain some level of centralization at the beginning so it can iterate quickly but will pursue a pathway of [progressive decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/) over time.
-
-### Community
-Protekt protocol's ultimate mission is to provide a service that makes DeFi safer so that the ecosystem can grow its capital, participants, and impact. Along with the smart contract protocol, we hope to foster a robust and sustainable community of devs, auditors, analysts, hackers, mempool sleuths, and others to continually test, prod, poke the latest DeFi projects to ensure they are safe. A substantial allocation of the protocol treasury will go towards audit reports, battle testing, meetups, and other content and events to foster a safe financial system.
 
 ## References
 * [Twitter](https://twitter.com/protektprotocol) for announcements
 * [Telegram](https://t.me/protektdefi) for discussions
 * [Snapshot (Coming Soon)](/) for governance
 * [Github](https://github.com/corbinpage/protekt-protocol-docs) for code & docs
+* [Original pitch from EthOnline](https://www.youtube.com/watch?v=7Az70o8kZy8&feature=youtu.be)
