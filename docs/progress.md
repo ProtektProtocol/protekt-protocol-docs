@@ -2,6 +2,14 @@
 
 ## Weekly Protocol Update
 
+### April 7th 
+* Working on Compound pToken withdraws bug
+* Working on AAVE APR bug
+* Community Stats:
+  * Telegram: 249 members
+  * Twitter: 791 followers
+  * Github: 3 contributors
+
 ### March 31st 
 * Fixed more bugs on Kovan
 * Created Protekt DAO multisig at [0x739a9CA29eA0D4EC88765328C9cFebff0b668007](https://etherscan.io/address/0x739a9CA29eA0D4EC88765328C9cFebff0b668007)
