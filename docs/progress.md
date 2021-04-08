@@ -3,6 +3,8 @@
 ## Weekly Protocol Update
 
 ### April 7th 
+* Updated documentation site
+* Updated marketing site
 * Working on Compound pToken withdraws bug
 * Working on AAVE APR bug
 * Community Stats:
