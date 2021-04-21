@@ -2,6 +2,22 @@
 
 ## Weekly Protocol Update
 
+### April 21st
+* Continuing to fix bugs
+* Working on mainnet deployment scripts
+* Community Stats:
+  * Telegram: 267 members
+  * Twitter: 801 followers
+  * Github: 3 contributors
+
+### April 14th 
+* Fixed Compound bug
+* Fixed AAVE APR bug
+* Community Stats:
+  * Telegram: 249 members
+  * Twitter: 791 followers
+  * Github: 3 contributors
+
 ### April 7th 
 * Updated documentation site
 * Updated marketing site
