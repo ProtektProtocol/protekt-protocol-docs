@@ -2,6 +2,13 @@
 
 ## Weekly Protocol Update
 
+### May 5th
+* Working on deployment scripts
+* Community Stats:
+  * Telegram: 262 members
+  * Twitter: 805 followers
+  * Github: 3 contributors
+
 ### April 28th
 * Updated the mainnet deployment scripts to support Gnosis Safe
 * Community Stats:
