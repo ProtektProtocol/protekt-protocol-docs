@@ -2,6 +2,17 @@
 
 ## Weekly Protocol Update
 
+### May 19th
+Hi frens, 👋
+Unfortunately, Stephen and I have decided to wind down work on Protekt Protocol. All documents, code, and thinking is open-source in Github, so we welcome anyone to pick it up and continue the mission on making DeFi safer for everyone!
+
+Upon reflecting, we made the mistake of not focusing on Protekt full-time, and the risk management market innovated and ran past us since starting Protekt in Fall of 2020. Crypto and DeFi moves super fast, and teams need to be able to match that pace without other distractions.
+
+Looking ahead, our team is commited to continue focusing on crypto and DeFi, so please keep an eye out to our next projects. A huge thank you to those that gave their time, thinking, testing, and offers of investment to this project. We hope to continue collaborating with you in this great space.
+
+Cheers,
+Protekt Team
+
 ### May 5th
 * Working on deployment scripts
 * Community Stats:
